@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package g4s21LACBFINAL;
+package g4s21mgmfinal;
 
 /**
  *
- * @author Asus
+ * @author Maritzamg
  */
-public class G4S21LACBFINAL {
+public class G4S21mgmfinal {
 
     /**
      * @param args the command line arguments

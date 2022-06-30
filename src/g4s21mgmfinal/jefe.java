@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package g4s21LACBFINAL;
+package g4s21mgmfinal;
 
 import CONEXIONDAO.Conexion;
 import DTO.Datos;

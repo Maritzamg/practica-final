@@ -6,7 +6,7 @@ package DTO;
 
 /**
  *
- * @author Asus
+ * @author maritzamg
  */
 public class Datos {
     String nombre;
